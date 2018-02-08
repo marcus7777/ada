@@ -10,3 +10,10 @@ or
 or
 
     npm i
+
+
+## run
+
+    caddy
+    
+goto http://localhost:2015/
