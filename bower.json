@@ -1,0 +1,19 @@
+{
+  "name": "ada-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ada-agent.html",
+  "keywords": [
+    "polymer",
+    "web-components"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.11.2",
+    "paper-slider": "PolymerElements/paper-slider#~1.0.15",
+    "ada-agent": "marcus7777/ada-agent"
+  },
+  "devDependencies": {
+    "iron-test-helpers": "*",
+    "web-component-tester": "^5.0.0"
+  }
+}
