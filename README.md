@@ -1,16 +1,8 @@
 # ada
 ## install 
 
-    bower i
-
-or
-
-    yarn
-    
-or
-
-    npm i
-
+    git clone git@github.com:marcus7777/ada.git
+    bower i || yarn || npm i
 
 ## run
 
